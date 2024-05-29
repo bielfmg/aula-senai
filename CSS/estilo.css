@@ -1,0 +1,61 @@
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color: #333;
+}
+p {
+ 
+    color: #555; /* Cinza médio */
+    text-align: justify;
+    margin: 5px;
+}
+/* Estilos específicos para a classe .destaque */
+.destaque {
+    font-size: 24px;
+    font-weight: bold;
+    color: #e74c3c; /* Vermelho escuro */
+}
+/* Estilos para a lista (ul) */
+ul {
+    padding: 0;
+}
+
+/* Estilos para os itens da lista (li) */
+li {
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    background-color: rgb(34, 36, 155, 0.9); /* Azul claro */
+    color: #fff; /* Branco */
+}
+
+/* Estilos para a tabela */
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+/* Estilos para o cabeçalho da tabela (th) */
+th {
+    background-color: #2ecc71; /* Verde claro */
+    color: #fff; /* Branco */
+    padding: 28px;
+}
+
+/* Estilos para as células da tabela (td) */
+td {
+    border: 1px solid #e71515;
+    padding: 18px;
+}
+
+.imagem{
+    text-align: center;
+}
